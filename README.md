@@ -1,2 +1,2 @@
-# home-assistant-addons
-Experiments on home assistant addons
+# home-assistant-hacs
+Experiments with home assistant hacs inetgrations
